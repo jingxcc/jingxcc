@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **jingxcc/jingxcc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,14 +14,12 @@ Here are some ideas to get you started:
 -->
 <div>
   <a href="https://github.com/jingxcc">
-    <img alt="Jing's GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jingxcc&theme=dracula&layout=compact">
-  </a>
-  <br />
-  <a href="https://github.com/jingxcc">
     <img alt="Jing's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=jingxcc&show_icons=true&hide_rank=true&theme=dracula&custom_title=Jing's%20GitHub%20stats">
   </a>
- 
- 
+  &nbsp;
+  <a href="https://github.com/jingxcc">
+    <img alt="Jing's GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jingxcc&theme=dracula&layout=compact">
+  </a>
 </div>
 
 
