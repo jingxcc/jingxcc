@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## About me
+<img align="right" src="https://komarev.com/ghpvc/?username=jingxcc&color=FF6E96" alt="profile-views">
 Hi, I'm a software engineer specializing in front-end development.  <br />
 📫 How to reach me: vera.xj.chen@gmail.com
 
